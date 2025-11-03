@@ -1,6 +1,6 @@
 # Lip-Sync Deepfake Detection
 
-This repository contains the full workflow for detecting lip-sync deepfakes in audio-visual content using a combination of **SyncNet scores**, **phoneme/viseme drift analysis**, and **LLM-based consistency checks**. The project is organized as a **day-wise iterative study** (Day 1–10) covering dataset collection, preprocessing, model training, evaluation, and analysis.
+This repository contains the full workflow for detecting lip-sync deepfakes in audio-visual content using a combination of **SyncNet scores**, **phoneme/viseme drift analysis**, and **LLM-based consistency checks**. The project is organized as a **day-wise iterative study** (Day 1–9) covering dataset collection, preprocessing, model training, evaluation, and analysis.
 
 ---
 
